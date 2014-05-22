@@ -1,7 +1,8 @@
 
 
+
 //	Algorithm to compute all the reachable nodes in a directed graph from the source vertex using-
-//	- the depth first algorithm
+//	- the breadth first algorithm
 
 
 
